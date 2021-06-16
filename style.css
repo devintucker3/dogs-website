@@ -1,16 +1,16 @@
 /*set background colors and spacing containers*/
 header {
-    background-color: #FFFACD;
+    background-color: tan;
     border: 2px solid black;
     height: auto;
     padding: 25px;
   }
   
   main {
-    background-color: #E0FFFF;
+    background-color: #800020;
   }
   footer {
-      background-color: #FFFACD;
+      background-color: tan;
       border: 2px solid black;
       height: auto;
   }
