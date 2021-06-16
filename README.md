@@ -1,0 +1,1 @@
+My wife wanted a fun website for our doggos. I told her I was too busy and didn't have the time, and after much deliberation... here's the website. (Happy wife, happy life) 
